@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am a professional software engineer 👋
 
 <!--
 **agilejune/agilejune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
